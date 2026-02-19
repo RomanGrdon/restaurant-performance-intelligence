@@ -124,7 +124,7 @@ Un modèle de Machine Learning permettant de :
 - Impact du sentiment
 - Analyse TOP vs FLOP
 
-![Analyse Sentiment](image/sentiment.png.png)
+![Analyse Sentiment](image/sentiment.png)
 ---
 
 # 🎯 Cas d’Usage
