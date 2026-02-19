@@ -3,6 +3,11 @@
 
 ---
 
+🚀 **Démo en ligne :**  
+👉 https://restaurant-performance-intelligence-7a9hhxd5nt35cdjqi8zbwu.streamlit.app/
+
+---
+
 ## 📌 Executive Summary
 
 Ouvrir un restaurant représente un investissement à fort risque et à forte intensité capitalistique.
