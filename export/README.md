@@ -151,17 +151,17 @@ Ce projet démontre la capacité à :
 
 # 📂 Structure du Projet
 
-restaurant-performance-intelligence/
+recommandation_restaurant/
 │
-├── app/
+├── app/ # Application Streamlit
 │ ├── 1_Prédiction.py
 │ ├── 2_Carte_restaurants.py
 │ ├── mon_modele.pkl
-│ └── dataset.csv
+│ └── P3_ML3v6.csv
 │
-├── dashboard/
-│ ├── global.png
-│ └── sentiment.png
+├── export/ # Exports / fichiers intermédiaires
+│
+├── image/ # Captures dashboards
 │
 ├── requirements.txt
 └── README.md
